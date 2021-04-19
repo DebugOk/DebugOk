@@ -3,7 +3,7 @@ Hi there, my name's Debug! I'm normally not very active on GitHub so if you want
 
 * Pronouns: She/her - they/them
 * Languages I speak: __Dutch__, English, and a little German
-* Programming languages: Python, Javascript, and Lua
+  * Programming languages: Python, Javascript, and Lua
 ## Contact information
 ##### Preferred
 * Discord: [@DebugOk#6605](https://discordapp.com/users/282227463642415104)
@@ -19,4 +19,4 @@ Hi there, my name's Debug! I'm normally not very active on GitHub so if you want
 * Please do not use anything I create unless the used license allowed it, and please, **__always credit me__**
 
 
-###### ~ Last edited on: **19/04/2021** at **8:02 AM** CEST
+###### ~ Last edited on: **19/04/2021** at **8:06 AM** CEST
