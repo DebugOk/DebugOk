@@ -1,5 +1,5 @@
 ## Information about me
-Hi there, my name's Debug! I'm normally not very active on GitHub so if you want a quick reply from me please message me on Discord at [@DebugOk#6605](https://discordapp.com/users/282227463642415104) or on Telegram at [@DebugOk](https://t.me/DebugOk)!
+Hi there, my name's Debug! I'm normally not very active on GitHub so if you want a quick reply from me please message me on Discord at [@DebugOk#6605](https://discordapp.com/users/282227463642415104) or on Telegram at [@DebugOk](https://t.me/DebugOk)! Also check ouy my [gist.github](https://gist.github.com/DebugOk)!
 
 * Pronouns: She/her - they/them
 * Languages I speak: __Dutch__, English, and a little German
@@ -19,4 +19,4 @@ Hi there, my name's Debug! I'm normally not very active on GitHub so if you want
 * Please do not use anything I create unless the used license allowed it, and please, **__always credit me__**
 
 
-###### ~ Last edited on: **19/04/2021** at **8:06 AM** CEST
+###### ~ Last edited on: **22/05/2021** at **10:04 PM** CEST
