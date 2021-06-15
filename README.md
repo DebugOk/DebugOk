@@ -14,9 +14,8 @@ Hi there, my name's Debug! I'm normally not very active on GitHub so if you want
   * DevForum: [u/DebugOk](https://devforum.roblox.com/u/DebugOk/)
 * Reddit: [u/GlitchyDebug](https://www.reddit.com/user/GlitchyDebug)
 ## GitHub related stuff
-* Most of my repositories are hidden.
 * I don't check GitHub often, please message me somewhere else.
 * Please do not use anything I create unless the used license allowed it, and please, **__always credit me__**
 
 
-###### ~ Last edited on: **22/05/2021** at **10:04 PM** CEST
+###### ~ Last edited on: **15/06/2021** at **4:30 PM** CEST
