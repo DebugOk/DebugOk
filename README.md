@@ -17,5 +17,6 @@ Hi there, my name's Debug! I'm normally not very active on GitHub so if you want
 * I don't check GitHub often, please message me somewhere else.
 * Please do not use anything I create unless the used license allowed it, and please, **__always credit me__**
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugOk)](https://github.com/anuraghazra/github-readme-stats)
 
-###### ~ Last edited on: **15/06/2021** at **4:30 PM** CEST
+###### ~ Last edited on: **15/06/2021** at **6:48 PM** CEST
