@@ -15,7 +15,7 @@ Hi there, my name's Debug! I'm normally not very active on GitHub so if you want
 * Reddit: [u/GlitchyDebug](https://www.reddit.com/user/GlitchyDebug)
 ## GitHub related stuff
 * I don't check GitHub often, please message me somewhere else.
-* Please do not use anything I create unless the used license allowed it, and please, **__always credit me__**
+* Please do not use anything I create unless the license allowed it.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=DebugOk&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
