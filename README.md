@@ -1,6 +1,8 @@
 # Hi, I'm Debug
 
-* Discord @ DebugOk#6605
+### _📌 My other accounts_
+* Discord @ DebugOk#6605 <sup><sub>Contact me here for the fastest response</sup></sub>
+* [Reddit](https://www.reddit.com/user/GlitchyDebug) 
 * [Twitter](https://twitter.com/DebugnOk)
 * [Roblox](https://www.roblox.com/users/1618273159/profile)
 * [Roblox DevForum](https://devforum.roblox.com/u/debugok)
