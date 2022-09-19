@@ -7,6 +7,7 @@
 * [Roblox](https://www.roblox.com/users/1618273159/profile)
 * [Roblox DevForum](https://devforum.roblox.com/u/debugok)
 * [gist.github](https://gist.github.com/DebugOk)
+* [Steam](https://steamcommunity.com/id/DebugOk)
 
 ###### I will probably make this look nicer at some point, but I dont feel like it right now.
 ---
